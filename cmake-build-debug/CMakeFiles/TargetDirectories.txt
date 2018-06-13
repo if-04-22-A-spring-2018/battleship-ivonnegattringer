@@ -1,0 +1,3 @@
+/home/ivonne/Documents/C/battleship-ivonnegattringer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivonne/Documents/C/battleship-ivonnegattringer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivonne/Documents/C/battleship-ivonnegattringer/cmake-build-debug/CMakeFiles/battleship_ivonnegattringer.dir
